@@ -1,2 +1,2 @@
-let ism = 'Salmon';
-document.write(ism);
+let ism = prompt('Ismingiz ...?', "");
+document.write(`Assalamu aleykum ${ism}`);
